@@ -13,4 +13,4 @@ tecnologias.
 - <a href="https://reactnative.dev/">React Native</a>
 - <a href="https://expo.io/">Expo</a>
 
-###💻  Web
+### 💻  Web
