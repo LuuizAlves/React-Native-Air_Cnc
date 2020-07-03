@@ -28,7 +28,7 @@ em branco caso não haja a necessidade de cobrar pelo espaço.
 
 ![](https://github.com/LuuizAlves/Air_Cnc/blob/master/frontend/github/AirCnc%20-%20Cadastro.gif?raw=true)
 
-###📱  Mobile
+### 📱  Mobile
 O aplicativo é responsável por oferecer aos desenvolvedores a possibilidade de encontrar
 os Spots oferecidos pelas empresas. Ao realizar o Login utilizando seu email e informar
 as tecnologias que utiliza, o Dev irá ter acessos aos Spots cadastrados e poderá solicitar
