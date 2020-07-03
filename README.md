@@ -1,5 +1,11 @@
 # AirCnc 👨🏽‍💻☕
-Aplicação desenvolvida durante a Semana OmniStack 09, utilizando a Stack Node Js, React e React Native.
+![](https://img.shields.io/github/languages/count/LuuizAlves/Air_Cnc) ![](https://img.shields.io/github/languages/top/LuuizAlves/Air_Cnc) ![](https://img.shields.io/github/last-commit/LuuizAlves/Air_Cnc) ![](https://img.shields.io/github/repo-size/LuuizAlves/Air_Cnc)
+
+Aplicação completa - backend, web e mobile - desenvolvida durante a Semana OmniStack 09, utilizando a Stack Node Js, React e React Native.
+
+<p align="center">
+  <img src="https://github.com/LuuizAlves/Air_Cnc/blob/master/frontend/github/AirCnc.png?raw=true" alt="Sublime's custom image"/>
+</p>
 
 Baseado no Airbnb, site que permite as pessoas anunciarem, descobrirem e reservarem
 acomodações e hospendagens, o AirCnc oferece a possibilidade de empresas permitirem
@@ -8,14 +14,17 @@ espaços vazios onde os desenvolvedores podem ter acesso a monitores, internet e
 tecnologias.
 
 ### 🚀 Tecnologias Utilizadas
+<p align="center">
+  <img src="https://github.com/LuuizAlves/Air_Cnc/blob/master/frontend/github/Tecnologias.png?raw=true" alt="Sublime's custom image"/>
+</p>
+
 - <a href="https://nodejs.org/en/">Node JS</a>
 - <a href="https://reactjs.org/">React JS</a>
 - <a href="https://reactnative.dev/">React Native</a>
 - <a href="https://expo.io/">Expo</a>
 
 ### 💻  Web - Login/Home
-Através da aplicação web é a Empresa realizar o login com seu email e na tela inicial
-poderá visualizar todos os Spots que já possui cadastrado.
+Através da aplicação web é a Empresa realizar o login com seu email e na tela inicial poderá visualizar todos os Spots que já possui cadastrado.
 
 ![](https://github.com/LuuizAlves/Air_Cnc/blob/master/frontend/github/AirCnc.gif?raw=true)
 
@@ -28,7 +37,7 @@ em branco caso não haja a necessidade de cobrar pelo espaço.
 
 ![](https://github.com/LuuizAlves/Air_Cnc/blob/master/frontend/github/AirCnc%20-%20Cadastro.gif?raw=true)
 
-### 📱  Mobile
+###📱  Mobile
 O aplicativo é responsável por oferecer aos desenvolvedores a possibilidade de encontrar
 os Spots oferecidos pelas empresas. Ao realizar o Login utilizando seu email e informar
 as tecnologias que utiliza, o Dev irá ter acessos aos Spots cadastrados e poderá solicitar
